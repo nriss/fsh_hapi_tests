@@ -1,0 +1,19 @@
+{
+  "resourceType": "Organization",
+  "id": "Org2",
+  "identifier": [
+    {
+      "value": "ans_2"
+    }
+  ],
+  "address": [
+    {
+      "line": [
+        "test_ans_2"
+      ]
+    }
+  ],
+  "partOf": {
+    "reference": "Organization/6489874"
+  }
+}

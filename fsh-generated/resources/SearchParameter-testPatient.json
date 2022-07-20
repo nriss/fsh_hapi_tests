@@ -1,0 +1,16 @@
+{
+  "resourceType": "SearchParameter",
+  "id": "testPatient",
+  "url": "http://test.com/test",
+  "code": "test-patient",
+  "type": "string",
+  "base": [
+    "Patient"
+  ],
+  "status": "active",
+  "description": "test Patient gender and name",
+  "name": "test-patient",
+  "expression": "Patient.gender | Patient.name",
+  "xpath": "f:Patient/f:gender | f:Patient/f:name",
+  "xpathUsage": "normal"
+}

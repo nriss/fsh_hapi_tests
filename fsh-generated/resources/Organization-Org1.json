@@ -1,0 +1,16 @@
+{
+  "resourceType": "Organization",
+  "id": "Org1",
+  "identifier": [
+    {
+      "value": "ans_1"
+    }
+  ],
+  "address": [
+    {
+      "line": [
+        "test_ans_1"
+      ]
+    }
+  ]
+}

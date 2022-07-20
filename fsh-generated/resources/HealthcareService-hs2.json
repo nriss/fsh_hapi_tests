@@ -1,0 +1,9 @@
+{
+  "resourceType": "HealthcareService",
+  "id": "hs2",
+  "name": "hs2",
+  "providedBy": {
+    "reference": "Organization/6489874",
+    "type": "Organization"
+  }
+}

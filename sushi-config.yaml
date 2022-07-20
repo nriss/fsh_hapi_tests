@@ -1,0 +1,10 @@
+FSHOnly: true
+fhirVersion: 4.0.1
+canonical: http://hl7.org/fhir/us/example
+
+# Dans l'ordre, il faut : 
+# 1. pousser org1
+# 2. mettre l'id d'org1 dans org2
+# 3. mettre l'id d'org1 dans hs1
+# 4. pousser org2
+# 5. mettre l'id d'org2 dans hs2
